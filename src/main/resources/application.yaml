@@ -1,0 +1,9 @@
+pageController:
+  msg: "Hello from YAML file"
+
+myconfig:
+  app-name: My Application Name
+  app-description: ${myconfig.app-name} is a Spring Boot Application
+  admin-first-name: Rohant
+  admin-last-name: Agrawal
+  adminEmail: agrawalrohant@gmail.com
